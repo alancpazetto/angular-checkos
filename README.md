@@ -7,10 +7,14 @@ How to install
 ===============
 
 Using bower:
+```
 bower install angular-checkos [--save]
+```
 
 Or using Git:
+```
 git clone git://github.com/alancpazetto/angular-checkos.git
+```
 
 How to use
 ===============
