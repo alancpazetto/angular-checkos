@@ -5,11 +5,11 @@
   "authors": [
     "alancpazetto <alancpazetto@gmail.com>"
   ],
-  "description": "Angular directive to check client OS.",
+  "description": "Angular service to check client OS.",
   "main": "angular-checkos-min.js",
   "keywords": [
     "angular",
-    "directive",
+    "service",
     "checkos",
     "check"
   ],

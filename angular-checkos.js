@@ -2,13 +2,13 @@
 
 /**
  * @ngdoc service
- * @name monicaFriasApp.Checkos
+ * @name angular_checkos.angularCheckos
  * @description
  * # Checkos
- * Service in the monicaFriasApp.
+ * Service in the angular_checkos.
  */
-angular.module('monicaFriasApp')
-  .service('checkOS', function Checkos() {
+angular.module('angular_checkos')
+  .service('angularCheckos', function Checkos() {
     
     this.check = function(){
   		var OSName="Unknown OS";
