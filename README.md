@@ -3,6 +3,15 @@ angular-checkos
 
 Angular service to check client OS.
 
+How to install
+===============
+
+Using bower:
+bower install angular-checkos [--save]
+
+Or using Git:
+git clone git://github.com/alancpazetto/angular-checkos.git
+
 How to use
 ===============
 
@@ -31,3 +40,5 @@ Logic from here http://www.javascripter.net/faq/operatin.htm
 Copyright © 1999-2012, JavaScripter.net.
 
 I only made the angular service to help angular developers! :)
+
+Thanks!
