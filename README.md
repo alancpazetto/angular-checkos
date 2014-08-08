@@ -13,7 +13,7 @@ Add angular-checkos in your app module:
 angular.module('you app', ['angular_checkos']);
 
 Use:
-app.directive('test'['angularCheckos', function(checkOS){
+app.directive('test', ['angularCheckos', function(checkOS){
 	console.log(checkOS.check());
 }]);
 
