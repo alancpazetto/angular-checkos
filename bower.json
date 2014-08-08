@@ -1,0 +1,24 @@
+{
+  "name": "angular-checkos",
+  "version": "1.0",
+  "homepage": "https://github.com/alancpazetto/angular-checkos",
+  "authors": [
+    "alancpazetto <alancpazetto@gmail.com>"
+  ],
+  "description": "Angular directive to check client OS.",
+  "main": "angular-checkos-min.js",
+  "keywords": [
+    "angular",
+    "directive",
+    "checkos",
+    "check"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
