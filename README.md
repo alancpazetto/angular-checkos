@@ -22,10 +22,7 @@ Returns
 
 The checkOS.check() returns this values:
 
-Windows
-MacOS
-UNIX
-Linux
+Windows, MacOS, UNIX or Linux.
 
 Credits
 ===============
