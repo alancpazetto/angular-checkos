@@ -7,7 +7,7 @@
  * # Checkos
  * Service in the angular_checkos.
  */
-angular.module('angular_checkos')
+angular.module('angular_checkos', [])
   .service('angularCheckos', function Checkos() {
     
     this.check = function(){
